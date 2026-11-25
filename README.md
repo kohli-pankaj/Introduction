@@ -1,4 +1,4 @@
 # pankajkohli
 Build  by HTML, CSS, JAVAScript
 
-link :https://pankajkoh.github.io/pankajkohli/
+link :https://kohli-pankaj.github.io/Introduction/
